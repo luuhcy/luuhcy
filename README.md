@@ -1,5 +1,4 @@
-Hello, my name is Luciana !
- 👀 I am interested in software and database development
+Olá! Me chamo Luciana, atualmente estou em busca de aprimorar os meus conhecimentos em programação back-end 🙂
 
 <!---
 luuhcy/luuhcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
