@@ -2,7 +2,7 @@
 - 👩🏽 18 anos;
 - 👩🏽‍💻 Cursando 3 semestre de Ciência da Computação;
 - 📌 Brasília DF
-- 🌱 Estou constantemente entusiasmada em adquirir novos conhecimentos e explorar cada vez mais a tecnologia para o bem.
+- 🌱 Estou entusiasmada em adquirir novos conhecimentos e explorar cada vez mais a tecnologia para impulsionar meu crescimento profissional e transformar a sociedade.
   
 ### Conecte-se comigo !
 www.linkedin.com/in/luciana-alves-561721258
