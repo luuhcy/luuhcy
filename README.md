@@ -1,4 +1,4 @@
-### < Olá! Sou a Luciana! />
+### < Hello, i'm Luciana! />
 - 👩🏽 18 anos;
 - 👩🏽‍💻 Cursando 3 semestre de Ciência da Computação;
 - 📌 Brasília DF
