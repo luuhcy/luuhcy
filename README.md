@@ -1,8 +1,9 @@
 ### < Hello, I'm Luciana! />
-- 👩🏽 18 anos;
-- 👩🏽‍💻 Cursando 3 semestre de Ciência da Computação;
+- 👩🏽 19 anos;
+- 👩🏽‍💻 Cursando 4º semestre de Ciência da Computação;
 - 📌 Brasília DF
-- 🌱 Estou entusiasmada em adquirir novos conhecimentos e explorar cada vez mais a tecnologia para impulsionar meu crescimento profissional e transformar a sociedade.
+- ![computador (1)](https://github.com/user-attachments/assets/85dce5c1-8d18-435b-bf41-f7105d76b962) CyberSecurity/Information Security
+
   
 ### Conecte-se comigo !
 www.linkedin.com/in/luciana-alves-561721258
