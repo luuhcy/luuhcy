@@ -1,6 +1,6 @@
 ### < Hello, I'm Luciana! />
-- 👩🏽 20 anos;
-- 👩🏽‍💻 Cursando 5º semestre de Ciência da Computação;
+- 👩🏽 21 anos;
+- 👩🏽‍💻 Cursando 7º semestre de Ciência da Computação;
 - 📌 Brasília DF
 - ![computador (1)](https://github.com/user-attachments/assets/85dce5c1-8d18-435b-bf41-f7105d76b962) CyberSecurity/Information Security
 
